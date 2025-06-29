@@ -34,4 +34,4 @@ The dataset includes:
 
 ## Notes
 
-This project is part of a data science course final assignment and integrates AI-assisted exploration and modeling.
+This project is part of my data science course final assignment and integrates AI-assisted exploration and modeling.
